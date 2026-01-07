@@ -9,7 +9,6 @@ I work on three fronts:
 3. **Infrastructure**: Building the stack required to train such networks in dependently-typed languages, including automatic differentiation and tight elaborator integration
 
 In all of these, I use category theory, the mathematics of structure and composition, as a central glue.
-
 To read more about my research programme, check out [this link](https://www.brunogavranovic.com/research_programme.html). To find my academic work, click [here](https://www.brunogavranovic.com/papers.html).
 
 And to check out my recent project TensorType --  a framework for type-safe, pure functional and non-cubical tensor processing -- follow [this link](https://github.com/bgavran/TypeSafe_Tensors).
