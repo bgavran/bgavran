@@ -6,7 +6,7 @@ I work on three fronts:
 
 1. **New architectures**: Understanding old, and designing new neural networks that natively consume and produce structured data
 2. **Mathematical Foundations**: Building the mathematics necessary to state precisely what it means to generalise, especially on data structures recursive in nature
-3. **Infrastructure**: Building the stack required to train such networks in dependently-typed languages, including automatic differentiation and tight elaborator integration
+3. **Infrastructure**: Building the stack required to train such networks in dependently-typed languages: tensor processing, automatic differentiation and elaborator integration
 
 In all of these, I use category theory, the mathematics of structure and composition, as a central glue.
 To read more about my research programme, check out [this link](https://www.brunogavranovic.com/research_programme.html). To find my academic work, click [here](https://www.brunogavranovic.com/papers.html).
